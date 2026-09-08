@@ -1,2 +1,4 @@
 Este es el segundo proyecto de comtrol de
 datos GIT
+cambio generado para el segundo taller 
+de GIT
