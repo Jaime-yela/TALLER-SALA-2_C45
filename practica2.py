@@ -1,1 +1,1 @@
-prnt("proceso de trabajo colavorativo")
+prnt("proceso de trabajo colaborativo")
