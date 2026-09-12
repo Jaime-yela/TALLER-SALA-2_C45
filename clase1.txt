@@ -1,0 +1,1 @@
+siempre que se agregan archivos hay que revisar el estado del trabajo que se este realizando.
