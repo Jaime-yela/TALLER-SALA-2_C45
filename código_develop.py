@@ -16,4 +16,4 @@ class CorreoNotificador(NotificadorInterface):
 
 # Uso
 notificador = CorreoNotificador()
-notificador.enviar("¡Hola, esto es una prueba!")
+notificador.enviar("¡Hola, esto es una prueba!")//rama develop
